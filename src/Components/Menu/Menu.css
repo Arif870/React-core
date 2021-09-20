@@ -1,0 +1,13 @@
+.menu {
+  border-bottom: 2px solid gray;
+}
+.menu li {
+  display: inline-block;
+}
+.menu li a {
+  list-style: none;
+  color: rgb(26, 25, 25);
+  text-decoration: none;
+  padding: 10px 20px;
+  display: inline-block;
+}
